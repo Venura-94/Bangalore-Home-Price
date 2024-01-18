@@ -16,7 +16,3 @@
 - Risk Mitigation for Developers: By comprehending market trends and elements influencing property values, one can assist real estate developers in devising pricing strategies.
 - Investment Planning: By projecting possible returns on real estate investments, can help investors make data-driven decisions.
 - Market Insight: Offer a more thorough comprehension of real estate dynamics, assisting in the development of well-informed company plans and market data.
-## 5. Future Enhancements:
-- Look at other regression methods for comparison.
-- To improve feature richness, integrate external data sources.
-- Create a scalable system for ongoing model refinement and real-time prediction.
